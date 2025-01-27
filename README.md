@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Usha</h1>
 <h3 align="center">Analyzing Data, Crafting Websites</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usha0401" alt="usha0401" /></a> </p>
 
 - 🌱 I'm interested in **Web Development, Data Science, and Software Development**
 
