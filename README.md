@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Usha</h1>
 <h3 align="center">Analyzing Data, Crafting Websites</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usha0401" alt="usha0401" /></a> </p>
+
+- 🌱 I'm interested in **Web Development, Data Science, and Software Development**
 
 - 👨‍💻 All of my projects are available at [https://usha0401.github.io/portfolio.usha/](https://usha0401.github.io/portfolio.usha/)
+
+- 🎓 I'm currently studying **Computer Science and Engineering at the IIIT, Kottayam.**
 
 - 📫 How to reach me **ushaanalyst04@gmail.com**
 
