@@ -6,12 +6,35 @@
 
 - 👨‍💻 All of my projects are available at [https://usha0401.github.io/portfolio.usha/](https://usha0401.github.io/portfolio.usha/)
 
-- 🎓 I'm currently studying **Computer Science and Engineering at the IIIT, Kottayam.**
+- 🎓 Graduate in **Computer Science and Engineering** from **IIIT Kottayam**
 
 - 📫 How to reach me **ushaanalyst04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/vasi-usha-sree-a1b5b0233/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn"
+         width="40"
+         height="40"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/usha_0401/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+         alt="LeetCode"
+         width="40"
+         height="40"/>
+  </a>
+
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/usha_0401" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Codechef_logo.png"
+         alt="CodeChef"
+         width="40"
+         height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
