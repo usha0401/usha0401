@@ -30,11 +30,10 @@
 
   <!-- CodeChef -->
   <a href="https://www.codechef.com/users/usha_0401" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Codechef_logo.png"
-       alt="CodeChef Profile"
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codechef.svg"
+       alt="CodeChef"
        width="40"
-       height="40"
-       style="margin-right:10px;"/>
+       height="40"/>
 </a>
 
 </p>
